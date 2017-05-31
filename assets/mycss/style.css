@@ -1,0 +1,32 @@
+body{
+	height: 600px;
+	background-color: #B1D2C3;
+}
+head{
+	height: 50px;
+	background-color: red;
+}
+.navbar{
+	background-color: #34CA88;
+}
+#form{
+	margin-top: 10%;
+
+}
+.panel{
+	box-shadow: 10px 10px 5px #888888;
+}
+#input-submit{
+	box-shadow: 5px 5px 5px #CBCDCC;
+}
+#font{
+	font-family: Tempus Sans ITC;
+	font-size: 20px;
+}
+#traparent{
+	opacity: 0.5;
+}
+.login_form{
+	margin: 50px;
+	max-width: 100%;
+}
